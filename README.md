@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Jihad Fakrach
 
-<!--
-**fakrach/fakrach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Jeune diplômé en Génie Logiciel (ENSA, 2025)  
+💻 Développeur passionné par le **Java**, le **Spring Boot**, les **API REST**, et l’**architecture cloud-native**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Compétences techniques
+
+- **Langages & Frameworks** : Java 17, Spring Boot, Angular 17, TypeScript
+- **Architecture** : Microservices, Clean Architecture, RESTful APIs
+- **DevOps & Cloud** : Git, Docker, Jenkins, GitLab CI/CD, Kubernetes, AWS, Azure
+- **Sécurité** : Spring Security, JWT, DevSecOps
+- **Tests** : JUnit, Mockito
+- **Méthodologies** : Agile/Scrum, collaboration inter-équipes
+
+---
+
+## 🚀 Projets récents
+
+### 🔹 Application de gestion des absences  
+> *Spring Boot 3 – Spring Security – Thymeleaf – MySQL*  
+Application web MVC sécurisée pour la gestion des absences avec interfaces dynamiques et API REST.
+
+### 🔹 Système de gestion automatique des emails (Cloud AWS)  
+> *SES – Lambda – S3 – RDS – IAM*  
+Infrastructure serverless pour le traitement, la réponse et l’archivage des emails professionnels.
+
+### 🔹 Module RH ERP cloud-native (PFE)  
+> *Spring Boot – Angular – JWT – Infomaniak Cloud*  
+Fonctionnalités de gestion RH : contrats, congés, formations, avec dashboard et reporting automatisé.
+
+---
+
+## 📫 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jihad-fakrach/)
+- 📧 jihad.fakrach01@gmail.com
+- 🌍 Marrakech, Maroc
+
+---
+
+> *"Code propre, sécurisé et maintenable : ma philosophie au quotidien."*
