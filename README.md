@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Jihad Fakrach
 
 🎓 Jeune diplômé en Génie Logiciel (ENSA, 2025)  
-💻 Développeur passionné par le **Java**, le **Spring Boot**, les **API REST**, et l’**architecture cloud-native**
+💻 Développeur passionné par le **Java**, le **Spring Boot**, les **API REST**, et l’**Architecture Micro-Service Cloud-Native**
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 🚀 Projets récents
 
-### 🔹 Module RH ERP cloud-native (PFE)  
+### 🔹 Module RH ERP Sr-Manager (PFE)  
 > *Spring Boot – Angular – JWT – Infomaniak Cloud*  
 Fonctionnalités de gestion RH : contrats, congés, formations, avec dashboard et reporting automatisé.
 
