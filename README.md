@@ -18,6 +18,10 @@
 
 ## 🚀 Projets récents
 
+### 🔹 Module RH ERP cloud-native (PFE)  
+> *Spring Boot – Angular – JWT – Infomaniak Cloud*  
+Fonctionnalités de gestion RH : contrats, congés, formations, avec dashboard et reporting automatisé.
+
 ### 🔹 Application de gestion des absences  
 > *Spring Boot 3 – Spring Security – Thymeleaf – MySQL*  
 Application web MVC sécurisée pour la gestion des absences avec interfaces dynamiques et API REST.
@@ -26,9 +30,7 @@ Application web MVC sécurisée pour la gestion des absences avec interfaces dyn
 > *SES – Lambda – S3 – RDS – IAM*  
 Infrastructure serverless pour le traitement, la réponse et l’archivage des emails professionnels.
 
-### 🔹 Module RH ERP cloud-native (PFE)  
-> *Spring Boot – Angular – JWT – Infomaniak Cloud*  
-Fonctionnalités de gestion RH : contrats, congés, formations, avec dashboard et reporting automatisé.
+
 
 ---
 
