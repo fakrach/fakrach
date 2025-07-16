@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Jihad Fakrach
 
 🎓 Jeune diplômé en Génie Logiciel (ENSA, 2025)  
-💻 Développeur passionné par le **Java**, le **Spring Boot**, les **API REST**, et l’**Architecture Micro-Service Cloud-Native**
+💻 Développeur passionné par le **Java**, le **Spring Boot**, les **API REST**, et l’**Architecture Micro-Service et Cloud-Native**
 
 ---
 
